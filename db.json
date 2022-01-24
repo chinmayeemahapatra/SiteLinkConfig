@@ -1,0 +1,65 @@
+{"sitelink":[
+  {
+    "id":1,
+    "SiteLink": "User Configuration",
+    "Role": "FA",
+    "Permissions": [
+    
+      {
+        "Name": "View"
+      },
+	  {
+        "Name": "Delete"
+      },
+      {
+        "Name": "Edit"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "SiteLink": "Contract Master",
+    "Role": "FA",
+    "Permissions": [
+	  {
+        "Name": "Create"
+      },      
+      {
+        "Name": "Edit"
+      },
+      {
+        "Name": "Delete"
+      }
+    ]
+  },
+  {
+    "id":3,
+    "SiteLink": "User Configuration",
+    "Role": "CFM",
+    "Permissions": [
+	  {
+        "Name": "Create"
+      },      
+      {
+        "Name": "Delete"
+      },
+      {
+        "Name": "View"
+      }
+    ]
+  },
+  {
+    "id":4,
+    "SiteLink": "Contract Master",
+    "Role": "Admin",
+    "Permissions": [
+      {
+        "Name": "Create"
+      },
+      {
+        "Name": "View"
+      }
+    ]
+  }
+]
+}
